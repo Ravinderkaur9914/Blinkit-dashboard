@@ -15,17 +15,17 @@ The dataset represents Blinkit’s retail sales data and includes details such a
 
 ## Dashboard 
  -  [Dashboard](https://github.com/Ravinderkaur9914/Blinkit-dashboard/blob/main/dashboard%20photo.png)
+<br>The dashboard includes interactive and analytical features:
+<br>Filters and slicers by location and outlet type
+<br>Drill-through for detailed outlet analysis
+<br>Category-wise comparison of sales and profits
+<br>Dynamic charts for time-based trends
 
-The dashboard includes interactive and analytical features:
+## Insights & Findings
+The dashboard reveals several key insights and findings. Urban outlets generate the highest sales, contributing nearly half of the total revenue, while medium-sized stores consistently outperform both small and large outlets. Beverages and household goods emerge as the top-selling product categories, whereas fruits and vegetables show moderate sales compared to other categories. Overall, customer satisfaction is high, though rural outlets require improvement. Additionally, older outlets exhibit stable but slower growth, whereas newer outlets adapt more quickly to changing customer needs.
 
-Filters and slicers by location and outlet type
-
-Drill-through for detailed outlet analysis
-
-Category-wise comparison of sales and profits
-
-Dynamic charts for time-based trends
-
+##Screenshot(s)
+<img width="1502" height="761" alt="dashboard photo" src="https://github.com/user-attachments/assets/448dbb86-82dd-4b9d-ab35-5e0f75a64ffd" />
 
 
 
