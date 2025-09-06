@@ -8,10 +8,24 @@ This project presents an interactive Power BI dashboard designed to analyze Blin
 ## Data Source
 The dataset represents Blinkit’s retail sales data and includes details such as product categories, outlet type, outlet size, sales figures, customer ratings, and year of establishment. It is structured to reflect real-world business scenarios.
 ## Tech Stack
- Power BI – for dashboard creation and visualizations
-<br> Power Query – for cleaning and transformation
- DAX – for creating calculated measures and columns
- Excel/CSV – as the base data source
+ Power BI – for dashboard creation and visualizations.
+<br> Power Query – for cleaning and transformation.
+<br> DAX – for creating calculated measures and columns.
+<br>  Excel/CSV – as the base data source.
+
+## Dashboard 
+ -
+
+The dashboard includes interactive and analytical features:
+
+Filters and slicers by location and outlet type
+
+Drill-through for detailed outlet analysis
+
+Category-wise comparison of sales and profits
+
+Dynamic charts for time-based trends
+
 
 
 
