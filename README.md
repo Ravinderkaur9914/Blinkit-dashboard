@@ -14,7 +14,7 @@ The dataset represents Blinkit’s retail sales data and includes details such a
 <br>  Excel/CSV – as the base data source.
 
 ## Dashboard 
- -
+ -  [Dashboard](https://github.com/Ravinderkaur9914/Blinkit-dashboard/blob/main/dashboard%20photo.png)
 
 The dashboard includes interactive and analytical features:
 
