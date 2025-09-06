@@ -27,14 +27,14 @@ The dashboard reveals several key insights and findings. Urban outlets generate 
 ## Screenshot(s)
 <img width="1502" height="761" alt="dashboard photo" src="https://github.com/user-attachments/assets/448dbb86-82dd-4b9d-ab35-5e0f75a64ffd" />
 
-##Future Enhancements
+## Future Enhancements
 <br>Planned improvements include:
 <br>Automating data refresh using Power BI Service
 <br>Adding predictive analytics such as sales forecasting
 <br>Integrating additional datasets for broader analysis
 <br>Developing advanced DAX measures for deeper insights
 
-##Conclusion
+## Conclusion
 This dashboard empowers businesses to track performance, analyze customer satisfaction, and identify opportunities for growth.By leveraging Power BI, decision-makers can rely on data-driven insights to improve operations and strategies.
 
 
