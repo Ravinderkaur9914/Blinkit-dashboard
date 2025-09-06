@@ -24,8 +24,18 @@ The dataset represents Blinkit’s retail sales data and includes details such a
 ## Insights & Findings
 The dashboard reveals several key insights and findings. Urban outlets generate the highest sales, contributing nearly half of the total revenue, while medium-sized stores consistently outperform both small and large outlets. Beverages and household goods emerge as the top-selling product categories, whereas fruits and vegetables show moderate sales compared to other categories. Overall, customer satisfaction is high, though rural outlets require improvement. Additionally, older outlets exhibit stable but slower growth, whereas newer outlets adapt more quickly to changing customer needs.
 
-##Screenshot(s)
+## Screenshot(s)
 <img width="1502" height="761" alt="dashboard photo" src="https://github.com/user-attachments/assets/448dbb86-82dd-4b9d-ab35-5e0f75a64ffd" />
+
+##Future Enhancements
+<br>Planned improvements include:
+<br>Automating data refresh using Power BI Service
+<br>Adding predictive analytics such as sales forecasting
+<br>Integrating additional datasets for broader analysis
+<br>Developing advanced DAX measures for deeper insights
+
+##Conclusion
+This dashboard empowers businesses to track performance, analyze customer satisfaction, and identify opportunities for growth.By leveraging Power BI, decision-makers can rely on data-driven insights to improve operations and strategies.
 
 
 
